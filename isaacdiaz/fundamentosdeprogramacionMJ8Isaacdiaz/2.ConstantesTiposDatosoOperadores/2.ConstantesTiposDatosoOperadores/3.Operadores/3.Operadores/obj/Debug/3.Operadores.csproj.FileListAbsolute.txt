@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\bin\Debug\3.Operadores.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\bin\Debug\3.Operadores.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\bin\Debug\3.Operadores.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\obj\Debug\3.Operadores.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\obj\Debug\3.Operadores.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\obj\Debug\3.Operadores.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\3.Operadores\3.Operadores\obj\Debug\3.Operadores.pdb
