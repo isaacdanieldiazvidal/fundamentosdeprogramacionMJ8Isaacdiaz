@@ -1,7 +1,0 @@
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\bin\Debug\5.condicionales.exe.config
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\bin\Debug\5.condicionales.exe
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\bin\Debug\5.condicionales.pdb
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\obj\Debug\5.condicionales.csproj.AssemblyReference.cache
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\obj\Debug\5.condicionales.csproj.CoreCompileInputs.cache
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\obj\Debug\5.condicionales.exe
-C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\2.ConstantesTiposDatosoOperadores\5.condicionales\5.condicionales\obj\Debug\5.condicionales.pdb
