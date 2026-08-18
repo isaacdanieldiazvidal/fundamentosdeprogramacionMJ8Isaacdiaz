@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\bin\Debug\condisionales taller.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\bin\Debug\condisionales taller.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\bin\Debug\condisionales taller.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\obj\Debug\condisionales taller.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\obj\Debug\condisionales taller.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\obj\Debug\condisionales taller.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\condisionales taller\condisionales taller\obj\Debug\condisionales taller.pdb
