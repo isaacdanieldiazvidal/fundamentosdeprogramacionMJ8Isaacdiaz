@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\bin\Debug\9.sicloswhile1.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\bin\Debug\9.sicloswhile1.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\bin\Debug\9.sicloswhile1.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\obj\Debug\9.sicloswhile1.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\obj\Debug\9.sicloswhile1.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\obj\Debug\9.sicloswhile1.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\9.sicloswhile1\9.sicloswhile1\obj\Debug\9.sicloswhile1.pdb
