@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\bin\Debug\11.CicloDoWkile.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\bin\Debug\11.CicloDoWkile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\bin\Debug\11.CicloDoWkile.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\obj\Debug\11.CicloDoWkile.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\obj\Debug\11.CicloDoWkile.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\obj\Debug\11.CicloDoWkile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\11.CicloDoWkile\11.CicloDoWkile\obj\Debug\11.CicloDoWkile.pdb
