@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\bin\Debug\12SicloDoWhile.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\bin\Debug\12SicloDoWhile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\bin\Debug\12SicloDoWhile.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\obj\Debug\12SicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\obj\Debug\12SicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\obj\Debug\12SicloDoWhile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\12SicloDoWhile\12SicloDoWhile\obj\Debug\12SicloDoWhile.pdb
