@@ -1,0 +1,7 @@
+C:\ProyectosCSharp\13.taller2\13.taller2\bin\Debug\13.taller2.exe.config
+C:\ProyectosCSharp\13.taller2\13.taller2\bin\Debug\13.taller2.exe
+C:\ProyectosCSharp\13.taller2\13.taller2\bin\Debug\13.taller2.pdb
+C:\ProyectosCSharp\13.taller2\13.taller2\obj\Debug\13.taller2.csproj.AssemblyReference.cache
+C:\ProyectosCSharp\13.taller2\13.taller2\obj\Debug\13.taller2.csproj.CoreCompileInputs.cache
+C:\ProyectosCSharp\13.taller2\13.taller2\obj\Debug\13.taller2.exe
+C:\ProyectosCSharp\13.taller2\13.taller2\obj\Debug\13.taller2.pdb
