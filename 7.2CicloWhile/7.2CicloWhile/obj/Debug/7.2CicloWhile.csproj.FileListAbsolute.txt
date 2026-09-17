@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\bin\Debug\7.2CicloWhile.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\bin\Debug\7.2CicloWhile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\bin\Debug\7.2CicloWhile.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\obj\Debug\7.2CicloWhile.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\obj\Debug\7.2CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\obj\Debug\7.2CicloWhile.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\7.2CicloWhile\7.2CicloWhile\obj\Debug\7.2CicloWhile.pdb
