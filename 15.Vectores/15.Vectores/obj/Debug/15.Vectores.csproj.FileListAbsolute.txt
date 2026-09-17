@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\bin\Debug\15.Vectores.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\bin\Debug\15.Vectores.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\bin\Debug\15.Vectores.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\obj\Debug\15.Vectores.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\obj\Debug\15.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\obj\Debug\15.Vectores.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\15.Vectores\15.Vectores\obj\Debug\15.Vectores.pdb
