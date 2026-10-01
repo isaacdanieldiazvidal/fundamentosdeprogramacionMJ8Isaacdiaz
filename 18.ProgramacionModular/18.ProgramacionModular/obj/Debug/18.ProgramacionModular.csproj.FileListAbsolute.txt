@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.exe.config
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.pdb
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.exe
+C:\Users\isaac\OneDrive\Desktop\isaacdiaz\fundamentosdeprogramacionMJ8Isaacdiaz\2.ConstantesTiposDatosoOperadores\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.pdb
