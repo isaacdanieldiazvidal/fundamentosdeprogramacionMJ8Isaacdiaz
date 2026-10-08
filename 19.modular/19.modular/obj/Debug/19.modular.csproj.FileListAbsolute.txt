@@ -1,0 +1,7 @@
+C:\ProyectosCSharp\19.modular\19.modular\bin\Debug\19.modular.exe.config
+C:\ProyectosCSharp\19.modular\19.modular\bin\Debug\19.modular.exe
+C:\ProyectosCSharp\19.modular\19.modular\bin\Debug\19.modular.pdb
+C:\ProyectosCSharp\19.modular\19.modular\obj\Debug\19.modular.csproj.AssemblyReference.cache
+C:\ProyectosCSharp\19.modular\19.modular\obj\Debug\19.modular.csproj.CoreCompileInputs.cache
+C:\ProyectosCSharp\19.modular\19.modular\obj\Debug\19.modular.exe
+C:\ProyectosCSharp\19.modular\19.modular\obj\Debug\19.modular.pdb
