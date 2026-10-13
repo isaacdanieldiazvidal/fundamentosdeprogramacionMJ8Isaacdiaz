@@ -1,0 +1,7 @@
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\bin\Debug\20 porgra modular.exe.config
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\bin\Debug\20 porgra modular.exe
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\bin\Debug\20 porgra modular.pdb
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\obj\Debug\20 porgra modular.csproj.AssemblyReference.cache
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\obj\Debug\20 porgra modular.csproj.CoreCompileInputs.cache
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\obj\Debug\20 porgra modular.exe
+C:\ProyectosCSharp\20 porgra modular\20 porgra modular\obj\Debug\20 porgra modular.pdb
